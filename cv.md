@@ -1,6 +1,6 @@
 # Anastasiia Kiryshenko
 
-!{photo}(/img/photo.jpeg)
+![photo](./img/photo.jpeg)
 
 ## Junior Frontend
 
@@ -8,9 +8,11 @@
 
 ## Contact information:
 
-**Phone**: +380660340009
-**E-mail**: kirshienkonastya1@gmail.com
-**Diskord**: Anastasia16.11#4876
+#### **Phone**: +380660340009
+
+#### **E-mail**: kirshienkonastya1@gmail.com
+
+#### **Diskord**: Anastasia16.11#4876
 
 ---
 
@@ -53,8 +55,7 @@ describe("Multiply", () => {
 
 - University:
 - Courses:
-  - RS Schools Course «JavaScript/Front-end.» [RS Schools][тег1]
-    [Тег1][https://app.rs.school/]
+  - RS Schools Course «JavaScript/Front-end.» [RS Schools](https://app.rs.school/)
 
 ---
 
